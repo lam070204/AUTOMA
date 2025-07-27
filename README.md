@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JetRacer
 
 <img src="https://user-images.githubusercontent.com/25759564/62127658-741e9080-b287-11e9-8ab9-f4e7e31404b1.png" height=256>
@@ -49,3 +50,7 @@ In this example, you'll teach JetRacer how to follow a road using AI.  After tra
 * [JetCam](http://github.com/NVIDIA-AI-IOT/jetcam) - An easy to use Python camera interface for NVIDIA Jetson
 * [JetCard](http://github.com/NVIDIA-AI-IOT/jetcard) - An SD card image for web programming AI projects with NVIDIA Jetson Nano
 * [torch2trt](http://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
+=======
+# AUTOMA
+Jetracer
+>>>>>>> 7e36b462e0a68e8a131a2d13147fe38f08996a00
